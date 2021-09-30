@@ -17,7 +17,7 @@ def dec2bin(numero_decimal, numero_bits):
             numero_binario = "1" + numero_binario
             
     return numero_binario
-
+#manipulo este coso
 # ----------------------------------------
 # MAIN
 # ----------------------------------------
